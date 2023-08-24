@@ -1,10 +1,10 @@
 {
-    "name": "Ros� Pine",
-    "description": "Something beautiful. All natural pine, faux fur and a bit of soho vibes for the classy minimalist.",
+    "name": "Rosé Pine edit",
+    "description": "edited by luca",
     "authors": [
       {
-        "name": "Moodl",
-        "id": "716941151386599464"
+        "name": "luca'",
+        "id": "343127251878936576"
       }
     ],
     "semanticColors": {
@@ -87,7 +87,7 @@
       "#eb6f92"
       ],
       "TEXT_LINK": [
-      "#f6c177"
+      "#ebbcba"
       ],
       "TEXT_MUTED": [
       "#6e6a86"
@@ -186,7 +186,7 @@
        "version":"0",
        "iconpack":"rosiecord-plumpy",
        "icons":{
-          "ic_new_pins":"#eb6f92",
+          "ic_new_pins":"#ebbcba",
           "StatusStreaming": "#c4a7e7",
           "StatusMobileOnline": "#9ccfd8",
           "StatusIdle": "#ebbcba",
